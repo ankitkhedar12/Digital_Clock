@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'The Rift Shop Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('The Rift Shop Regular'), url('TheRiftShop-8MKAB.woff') format('woff');
+    }
+    /* @font-face {
+        font-family: 'The Beast Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('The Beast Regular'), url('TheBeast.woff') format('woff');
+        } */
+
+h1 {
+    font-family: 'The Rift Shop Regular' ;
+    font-weight: 500;
+    /* font-size: 500%; */
+    color:wheat;
+}
