@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Digital_Clock/static/css/main.d1b67fde.css",
+    "main.js": "/Digital_Clock/static/js/main.4d07eb73.js",
+    "static/js/787.5e667bc4.chunk.js": "/Digital_Clock/static/js/787.5e667bc4.chunk.js",
+    "static/media/TheRiftShop-8MKAB.woff": "/Digital_Clock/static/media/TheRiftShop-8MKAB.ec45a403ef8f0bc1253e.woff",
+    "index.html": "/Digital_Clock/index.html",
+    "main.d1b67fde.css.map": "/Digital_Clock/static/css/main.d1b67fde.css.map",
+    "main.4d07eb73.js.map": "/Digital_Clock/static/js/main.4d07eb73.js.map",
+    "787.5e667bc4.chunk.js.map": "/Digital_Clock/static/js/787.5e667bc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b67fde.css",
+    "static/js/main.4d07eb73.js"
+  ]
+}
